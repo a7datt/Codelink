@@ -1,0 +1,32 @@
+{
+  "name": "Codelink",
+  "short_name": "Codelink",
+  "description": "متجر كودلينك لشحن الألعاب والتطبيقات",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1F76FF",
+  "theme_color": "#1F76FF",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/LhCbbjnj/image.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/LhCbbjnj/image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/LhCbbjnj/image.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "scope": "/",
+  "categories": ["shopping", "games"]
+}
